@@ -1,0 +1,37 @@
+body{
+    font-family: verdana;
+    font-size: 30px;
+    background-color: rgb(48, 48, 48);
+    color: white;
+
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+}
+.sec2{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    font-family: verdana;
+    font-size: 30px;
+}
+button{
+    background-color: rgb(33, 201, 33);
+    border-radius: 10px;
+    font-family: verdana;
+    font-size: 30px;
+}
+.image{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    height: 825px;
+}
+.img{
+    max-width: 100%; 
+    height: auto;
+}
